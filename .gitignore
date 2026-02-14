@@ -1,0 +1,10 @@
+# MicroPython / Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# IDE Folders
+.vscode/
+.idea/
+.thonny/
